@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?theyashtailor=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak stats" />
 </p>
 
